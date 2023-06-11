@@ -10,6 +10,33 @@
 ## Description
 This is my portfolio page where I showcase my work and creativity. The site is built with HTML, CSS, JavaScript, and Vite tool.
 
+## Getting Started
+
+### Installing
+
+To run the project locally, follow these steps:
+
+1. Clone the repo:
+
+```bash
+ git clone https://github.com/KrystianGH2/Protfolio-1.git
+```
+
+2. Install the dependencies:
+
+```bash
+cd Portfolio-1
+npm install
+```
+
+### Running
+
+To run the app, run the following commands:
+
+```bash
+npm run start
+```
+
 ## List of My Projects
 
 - [Project Exam 1: Travel Website](https://exploretravelsite.netlify.app/) / [GithubRepo](https://github.com/Noroff-FED-Campus-Assignments/fed1-exam-KrystianGH2)
